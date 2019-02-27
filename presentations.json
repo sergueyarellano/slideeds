@@ -1,0 +1,23 @@
+[{
+  "name": "node-streams",
+  "slides": [
+    {
+      "name": "01.slide",
+      "content": "## This is the slide number 1\n\nthis is a paragraph\n\nanother par"
+    },{
+      "name": "02.slide",
+      "content": "## This is the slide number 2"
+    }
+  ]
+},{
+  "name": "cucumber-js",
+  "slides": [
+    {
+      "name": "01.slide",
+      "content": "## This is the slide number 1"
+    },{
+      "name": "02.slide",
+      "content": "## This is the slide number 2"
+    }
+  ]
+}]
